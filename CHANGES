@@ -1,5 +1,9 @@
 = Statemachine Changelog
 
+== Version 0.4.2
+
+* Added builder with tabular syntax.
+
 == Version 0.4.1
 
 Simple Fixes
